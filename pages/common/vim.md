@@ -10,6 +10,10 @@
 
 `vim -p {{file1}} {{file2}} {{file3}}`
 
+- open up to 4 files at once with diff mode, then you can look up their difference
+
+`vim -d {{file1}} {{file2}} ...... {{file4}}`
+
 - open a file in read-only mode
 
 `view {{file}}`
